@@ -1,0 +1,9 @@
+F:\AnalizaObrazu\bin\x64\Debug\AnalizaObrazu.exe
+F:\AnalizaObrazu\bin\x64\Debug\AnalizaObrazu.pdb
+F:\AnalizaObrazu\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\AnalizaObrazu\obj\x64\Debug\AnalizaObrazu.Form1.resources
+F:\AnalizaObrazu\obj\x64\Debug\AnalizaObrazu.Properties.Resources.resources
+F:\AnalizaObrazu\obj\x64\Debug\GenerateResource-ResGen.read.1.tlog
+F:\AnalizaObrazu\obj\x64\Debug\GenerateResource-ResGen.write.1.tlog
+F:\AnalizaObrazu\obj\x64\Debug\AnalizaObrazu.exe
+F:\AnalizaObrazu\obj\x64\Debug\AnalizaObrazu.pdb

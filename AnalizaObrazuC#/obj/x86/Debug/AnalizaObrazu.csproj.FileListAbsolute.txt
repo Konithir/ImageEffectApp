@@ -1,0 +1,17 @@
+C:\Users\Konithir\Desktop\AnalizaObrazu\bin\x86\Debug\AnalizaObrazu.exe
+C:\Users\Konithir\Desktop\AnalizaObrazu\bin\x86\Debug\AnalizaObrazu.pdb
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.csprojResolveAssemblyReference.cache
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.Form1.resources
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.Properties.Resources.resources
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.csproj.GenerateResource.Cache
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.exe
+C:\Users\Konithir\Desktop\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.pdb
+F:\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.exe
+F:\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.pdb
+F:\AnalizaObrazu\bin\x86\Debug\AnalizaObrazu.exe
+F:\AnalizaObrazu\bin\x86\Debug\AnalizaObrazu.pdb
+F:\AnalizaObrazu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.Form1.resources
+F:\AnalizaObrazu\obj\x86\Debug\AnalizaObrazu.Properties.Resources.resources
+F:\AnalizaObrazu\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\AnalizaObrazu\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

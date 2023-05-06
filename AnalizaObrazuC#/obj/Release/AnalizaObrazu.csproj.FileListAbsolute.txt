@@ -1,0 +1,5 @@
+F:\AnalizaObrazu\obj\Release\ResolveAssemblyReference.cache
+F:\AnalizaObrazu\obj\Release\AnalizaObrazu.Form1.resources
+F:\AnalizaObrazu\obj\Release\AnalizaObrazu.Properties.Resources.resources
+F:\AnalizaObrazu\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\AnalizaObrazu\obj\Release\GenerateResource-ResGen.write.1.tlog
